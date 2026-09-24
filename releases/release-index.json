@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "publisher": "BRAIZ Works LLC",
+  "releases": [
+    {
+      "paper_id": "WP-02",
+      "title": "The Enterprise Execution Gap",
+      "version": "1.0.0",
+      "release_tag": "wp-02-v1.0.0",
+      "paper_path": "papers/WP-02-enterprise-execution-gap/"
+    }
+  ]
+}

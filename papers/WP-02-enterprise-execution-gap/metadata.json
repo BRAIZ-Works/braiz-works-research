@@ -1,0 +1,22 @@
+{
+  "canonical_repository": "https://github.com/BRAIZ-Works/braiz-works-research",
+  "classification": "public-safe / non-confidential",
+  "document_date": "2026-09-23",
+  "html_sha256": "fd14e8e52c59725893ee1347c01bbc770ef833b9830fb6c3e63ebc378d9d8887",
+  "markdown_sha256": "33d61f21b22a5404fdce4d0e5cb954270ddc3c14ea4b932e9d02d812fc08a40f",
+  "paper_id": "WP-02",
+  "pdf_filename": "BRAIZ_Works_Research_WP-02_Enterprise_Execution_Gap_v1.0.0.pdf",
+  "pdf_pages": 11,
+  "pdf_sha256": "bf8095d920d502295bbb5f99020171e3d0dd6305ce21aa7c4b675b789acb2fd3",
+  "publisher": "BRAIZ Works LLC",
+  "reader_url": "https://braiz-works.github.io/braiz-works-research/papers/WP-02-enterprise-execution-gap/",
+  "release_identity": "WP-02/v1.0.0",
+  "release_tag": "wp-02-v1.0.0",
+  "release_url": "https://github.com/BRAIZ-Works/braiz-works-research/releases/tag/wp-02-v1.0.0",
+  "rights": "\u00a9 2026 BRAIZ Works LLC. All rights reserved.",
+  "series": "BRAIZ Works Research",
+  "source_sha256": "33d61f21b22a5404fdce4d0e5cb954270ddc3c14ea4b932e9d02d812fc08a40f",
+  "subtitle": "Why AI Activity Is Not the Same as Governed Outcome Closure",
+  "title": "The Enterprise Execution Gap",
+  "version": "1.0.0"
+}

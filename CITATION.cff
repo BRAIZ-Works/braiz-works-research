@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "BRAIZ Works Research"
+message: "Please cite the specific paper and version you use."
+type: generic
+publisher: "BRAIZ Works LLC"
+authors:
+  - name: "BRAIZ Works LLC"
+preferred-citation:
+  type: report
+  title: "The Enterprise Execution Gap: Why AI Activity Is Not the Same as Governed Outcome Closure"
+  authors:
+    - name: "BRAIZ Works LLC"
+  publisher: "BRAIZ Works LLC"
+  version: "1.0.0"
