@@ -1,0 +1,132 @@
+{
+  "candidate_sha256": "10a2530275e3b1cff76fb6d803b1cabac0f15601e942aae1476f293f9e058759",
+  "claims": [
+    {
+      "claim_summary": "**BRAIZ Works Research** **WP-05 \u00b7 Version 1.0.0 \u00b7 September 24, 2026**  > Public-safe research.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-05-CLM-001",
+      "section": "Why builders should repair aggressively and reviewers should stay separate"
+    },
+    {
+      "claim_summary": "The same team or system that builds an artifact is often best positioned to find and repair routine defects.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-05-CLM-002",
+      "section": "Executive summary"
+    },
+    {
+      "claim_summary": "Producer assurance and independent QA optimize for different outcomes.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "REF-3",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "SOURCE_BACKED",
+      "id": "WP-05-CLM-003",
+      "section": "Two different jobs"
+    },
+    {
+      "claim_summary": "A producer-side PASS should be hard to earn.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-05-CLM-004",
+      "section": "Producer assurance should be aggressive"
+    },
+    {
+      "claim_summary": "Independent QA is strongest when its subject is exact and immutable.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-05-CLM-005",
+      "section": "Independent QA should be bounded"
+    },
+    {
+      "claim_summary": "A PASS/FAIL-only reviewer creates a clean accountability boundary.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-05-CLM-006",
+      "section": "Zero repair preserves reviewer independence"
+    },
+    {
+      "claim_summary": "A strong producer treats an independent finding as evidence of a broader failure family.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-05-CLM-007",
+      "section": "Failure families, not single symptoms"
+    },
+    {
+      "claim_summary": "A weak QA system can report impressive counts while missing upstream omissions.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-05-CLM-008",
+      "section": "The false-PASS problem"
+    },
+    {
+      "claim_summary": "`build \u2192 producer challenge \u2192 repair \u2192 regression \u2192 exact lock \u2192 two fresh sweeps \u2192 immutable handoff \u2192 independent QA`  Any material repair after the lock resets the final-sweep qualification.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-05-CLM-009",
+      "section": "A clean assurance sequence"
+    },
+    {
+      "claim_summary": "Enterprises can require the separation of producer assurance and independent review without demanding private attack sets, prompts, thresholds, or evaluation corpora.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-05-CLM-010",
+      "section": "What to disclose publicly"
+    },
+    {
+      "claim_summary": "Independence is a spectrum.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-05-CLM-011",
+      "section": "Limitations"
+    }
+  ],
+  "currentness_boundary": "INHERITED_WP02_SOURCES_ONLY",
+  "measured_documented_modeled_target_separation": "PASS",
+  "paper_id": "WP-05",
+  "result": "PASS",
+  "unmapped_material_claims": 0
+}

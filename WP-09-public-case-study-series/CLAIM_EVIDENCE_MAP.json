@@ -1,0 +1,135 @@
+{
+  "candidate_sha256": "4e7d80d846cb1a24d42afa29e455fa8beeed4fc841881b1a0791b7d28f918601",
+  "claims": [
+    {
+      "claim_summary": "**BRAIZ Works Research** **WP-09 \u00b7 Version 1.0.0 \u00b7 September 24, 2026**  > Public-safe research.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-09-CLM-001",
+      "section": "A sanitized first-party case on publishing a governed AI whitepaper without exposing the private blueprint"
+    },
+    {
+      "claim_summary": "This case study shows how a public research artifact can move from outcome definition through planning, assurance, publication, public readback, and closeout while preserving proprietary implementation boundaries.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-09-CLM-002",
+      "section": "Executive summary"
+    },
+    {
+      "claim_summary": "This case covers the public release of BRAIZ Works Research WP-02, *The Enterprise Execution Gap*.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "REF-7",
+        "SRC-001_PROGRAM_PORTFOLIO",
+        "WP02_TERMINAL_CLOSEOUT_PACKAGE"
+      ],
+      "evidence_class": "SOURCE_BACKED",
+      "id": "WP-09-CLM-003",
+      "section": "Case boundary"
+    },
+    {
+      "claim_summary": "The intended outcome was not merely \u201cwrite a whitepaper.\u201d It was to create a public-safe research artifact that could serve community education and enterprise social proof while preserving first-party intellectual property boundaries.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-09-CLM-004",
+      "section": "Outcome"
+    },
+    {
+      "claim_summary": "The project separated planning, producer qualification, independent review, owner acceptance, freeze, publication authorization, deployment, public verification, social disposition, and final closeout.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO",
+        "WP02_TERMINAL_CLOSEOUT_PACKAGE"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-09-CLM-005",
+      "section": "Observed lifecycle"
+    },
+    {
+      "claim_summary": "The publication canary surfaced several practical failure modes before the broader portfolio was batched: hidden-file upload friction, accidental path duplication, platform-specific Pages enablement, release-asset assembly, and the need to preserve exact owner authority for consequential lifecycle transitions.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO",
+        "WP02_TERMINAL_CLOSEOUT_PACKAGE"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-09-CLM-006",
+      "section": "What the canary exposed"
+    },
+    {
+      "claim_summary": "Observed versus modeled",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-09-CLM-007",
+      "section": "Observed versus modeled"
+    },
+    {
+      "claim_summary": "The published paper explains enterprise assurance principles\u2014authority, evidence, lifecycle, recovery, change control, and independent review\u2014without exposing the exact system that implements them.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-09-CLM-008",
+      "section": "Community value without blueprint leakage"
+    },
+    {
+      "claim_summary": "Once the WP-02 canary proved the publication mechanics, running nine more papers through nine fully serial pipelines would duplicate shared work.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-09-CLM-009",
+      "section": "Why the portfolio moved to batching"
+    },
+    {
+      "claim_summary": "A public case study should record: exact outcome, source boundary, lifecycle path, evidence classes, material failures and repairs, measured versus modeled quantities, privacy/IP constraints, limitations, and what was deliberately not disclosed.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-09-CLM-010",
+      "section": "Reusable case-study template"
+    },
+    {
+      "claim_summary": "This is a first-party case and therefore should not be treated as an independent market study.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-09-CLM-011",
+      "section": "Limitations"
+    }
+  ],
+  "currentness_boundary": "INHERITED_WP02_SOURCES_ONLY",
+  "measured_documented_modeled_target_separation": "PASS",
+  "paper_id": "WP-09",
+  "result": "PASS",
+  "unmapped_material_claims": 0
+}

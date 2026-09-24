@@ -1,0 +1,63 @@
+{
+  "member_count": 11,
+  "members": [
+    {
+      "path": "ACCESSIBILITY_DISCLOSURE.json",
+      "sha256": "f3af3293836b36244fe354e48a524a9ac947762d400431684434210972d60e8c",
+      "size": 522
+    },
+    {
+      "path": "BRAIZ_Works_Research_WP-05_Producer_Assurance_vs_Independent_QA_v1.0.0.pdf",
+      "sha256": "39d2002cb056f4440d5cae5f1ad8b3ba75cac496710942df5e1c9743b67ed918",
+      "size": 8425
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "bfea3657ee915773a39093137cbaad15c918acb0a2690b701446d176323c1c00",
+      "size": 289
+    },
+    {
+      "path": "CLAIM_EVIDENCE_MAP.json",
+      "sha256": "0ed76d798da233b9400343850f6b1353159d881aa381003cfc288c1ea63487f7",
+      "size": 4631
+    },
+    {
+      "path": "DISCLOSURE_RIGHTS_GATE.json",
+      "sha256": "d4b50e85803a14c1352d3f7cfcd5ce1a25ed666362f5d573ead3a8dbb8a22b2b",
+      "size": 551
+    },
+    {
+      "path": "RIGHTS.md",
+      "sha256": "00649dc97fedeee7853107b093ded006450d3ad293f344dc1258ad6a63650e23",
+      "size": 274
+    },
+    {
+      "path": "changelog.md",
+      "sha256": "145e9de3e9b439a5d2d29105ddb03fb1a1a63c41676d2e9f314738b3ebba6f6b",
+      "size": 130
+    },
+    {
+      "path": "metadata.json",
+      "sha256": "c365f1d61d96ca2c195b20e7ee298e475186f9efd24010d5ed36e5eea87a4572",
+      "size": 667
+    },
+    {
+      "path": "paper.md",
+      "sha256": "10a2530275e3b1cff76fb6d803b1cabac0f15601e942aae1476f293f9e058759",
+      "size": 5975
+    },
+    {
+      "path": "release-notes.md",
+      "sha256": "5097478465955dd99805b8d3c66cfa668f6388b8f9da627649ba6224c4626d42",
+      "size": 525
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "sha256": "97ee34478e1b4eeff681f651b915a118faff4533e4951f171d6793b287d23ef7",
+      "size": 893
+    }
+  ],
+  "paper_id": "WP-05",
+  "self_exclusion": "PUBLICATION_MANIFEST.json is covered by outer batch manifest to avoid recursive self-hash",
+  "version": "1.0.0"
+}

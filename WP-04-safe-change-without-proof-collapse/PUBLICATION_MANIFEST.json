@@ -1,0 +1,63 @@
+{
+  "member_count": 11,
+  "members": [
+    {
+      "path": "ACCESSIBILITY_DISCLOSURE.json",
+      "sha256": "7518708c07367580406ea7b477602a4c4824889da84fb97e8b3403d87cef5414",
+      "size": 522
+    },
+    {
+      "path": "BRAIZ_Works_Research_WP-04_Safe_Change_Without_Proof_Collapse_v1.0.0.pdf",
+      "sha256": "e83f39f74b989e37e3e0b9e0b066707ea947ee55917a7968670fdd88468272a8",
+      "size": 8903
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "0c498805b967ce68aff99ca9633d7db99fd0dddae3b351cd587fff474436aa99",
+      "size": 287
+    },
+    {
+      "path": "CLAIM_EVIDENCE_MAP.json",
+      "sha256": "065743c549580e9fce49bde35d1f8ddc2e7cc454476ec5f40f4bd500815d86a3",
+      "size": 4492
+    },
+    {
+      "path": "DISCLOSURE_RIGHTS_GATE.json",
+      "sha256": "922397d6aa2d7ece3c8d8cf879f12ac24433daee5a018a40e8ea0429cea57ef5",
+      "size": 551
+    },
+    {
+      "path": "RIGHTS.md",
+      "sha256": "00649dc97fedeee7853107b093ded006450d3ad293f344dc1258ad6a63650e23",
+      "size": 274
+    },
+    {
+      "path": "changelog.md",
+      "sha256": "34dc048b86e26416dc210ade92dd9494799b9bca403fa97b636f50e0350a628c",
+      "size": 128
+    },
+    {
+      "path": "metadata.json",
+      "sha256": "38e3ffedab6a1ba7e887eb7d900e9c51a4cc61a714274e5199c055c9a018d088",
+      "size": 673
+    },
+    {
+      "path": "paper.md",
+      "sha256": "a65b79105ac4abf7d9e8f94cd69074a9d8108562d82c4230553774e1eab6480d",
+      "size": 6008
+    },
+    {
+      "path": "release-notes.md",
+      "sha256": "bb3d0fc3a69bb45a840c2ef3156f668d4b58b35e321d730ff113879fa2fa09b2",
+      "size": 513
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "sha256": "cc2aa3a9bb75da11557e69b18ab447f8994a738491a4a6e043e7fa762379fbc4",
+      "size": 891
+    }
+  ],
+  "paper_id": "WP-04",
+  "self_exclusion": "PUBLICATION_MANIFEST.json is covered by outer batch manifest to avoid recursive self-hash",
+  "version": "1.0.0"
+}

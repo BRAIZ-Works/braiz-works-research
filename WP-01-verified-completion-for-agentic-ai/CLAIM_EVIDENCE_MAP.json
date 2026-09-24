@@ -1,0 +1,136 @@
+{
+  "candidate_sha256": "d646642e016adf431e817e1e53182a1679a8d4b3f2f7f91aa5db81cd3ff81d2f",
+  "claims": [
+    {
+      "claim_summary": "**BRAIZ Works Research** **WP-01 \u00b7 Version 1.0.0 \u00b7 September 24, 2026**  > Public-safe research.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-01-CLM-001",
+      "section": "Why \u201cthe agent ran\u201d is not the same as \u201cthe outcome is proven done\u201d"
+    },
+    {
+      "claim_summary": "Agentic systems can execute impressive sequences of work while leaving enterprises uncertain about whether the intended outcome was actually achieved, whether the right authority existed, whether evidence is current, and whether the result can survive independent review.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-01-CLM-002",
+      "section": "Executive summary"
+    },
+    {
+      "claim_summary": "AI systems are increasingly capable of executing multi-step work, but execution traces and plausible outputs do not by themselves prove outcome closure.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "REF-1",
+        "REF-2",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "SOURCE_BACKED",
+      "id": "WP-01-CLM-003",
+      "section": "The completion problem"
+    },
+    {
+      "claim_summary": "Verified completion is the state in which an authorized outcome is not merely attempted but supported by current, attributable, reproducible evidence across its material obligations.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "REF-3",
+        "REF-4",
+        "REF-5",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "SOURCE_BACKED",
+      "id": "WP-01-CLM-004",
+      "section": "A public definition of verified completion"
+    },
+    {
+      "claim_summary": "None of these conditions requires publishing an internal implementation.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-01-CLM-005",
+      "section": "Six conditions for closure"
+    },
+    {
+      "claim_summary": "A common failure mode is to collapse different states into one generic \u201ccomplete.\u201d A candidate is not independently reviewed.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-01-CLM-006",
+      "section": "Lifecycle truth is a control, not a label"
+    },
+    {
+      "claim_summary": "Evidence becomes weak when it is detached from the exact thing it is supposed to prove.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-01-CLM-007",
+      "section": "Evidence must be bound to the subject"
+    },
+    {
+      "claim_summary": "A backup is not the same as recovery.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-01-CLM-008",
+      "section": "Recovery is part of completion"
+    },
+    {
+      "claim_summary": "The builder should be allowed to test aggressively and repair.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-01-CLM-009",
+      "section": "Independent review without blueprint disclosure"
+    },
+    {
+      "claim_summary": "Enterprises do not need to adopt a specific architecture to demand stronger completion semantics.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-01-CLM-010",
+      "section": "What enterprises can ask for now"
+    },
+    {
+      "claim_summary": "This paper presents an operating concept, not a claim that any system can eliminate all defects or guarantee perfect outcomes.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-01-CLM-011",
+      "section": "Limitations"
+    }
+  ],
+  "currentness_boundary": "INHERITED_WP02_SOURCES_ONLY",
+  "measured_documented_modeled_target_separation": "PASS",
+  "paper_id": "WP-01",
+  "result": "PASS",
+  "unmapped_material_claims": 0
+}

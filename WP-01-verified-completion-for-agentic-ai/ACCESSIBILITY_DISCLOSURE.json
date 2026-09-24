@@ -1,0 +1,19 @@
+{
+  "html": {
+    "lang_attribute": true,
+    "link_text_present": true,
+    "semantic_headings": true
+  },
+  "markdown": {
+    "plain_text_source": true,
+    "structured_headings": true
+  },
+  "paper_id": "WP-01",
+  "pdf": {
+    "disclosure": "PDF is not represented as tagged-PDF accessibility conformant; HTML/Markdown are the accessible reader/source alternatives.",
+    "render_verified": true,
+    "searchable_text": true,
+    "tagged_pdf_conformance_claim": false
+  },
+  "result": "PASS_WITH_EXPLICIT_LIMITATION"
+}

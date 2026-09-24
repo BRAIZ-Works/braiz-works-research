@@ -1,0 +1,133 @@
+{
+  "candidate_sha256": "83d73893b7c9ca3c2abbeda5530e42fcd8560fa75acd52ccdd8799847fd089f3",
+  "claims": [
+    {
+      "claim_summary": "**BRAIZ Works Research** **WP-03 \u00b7 Version 1.0.0 \u00b7 September 24, 2026**  > Public-safe research.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-03-CLM-001",
+      "section": "Making agentic work attributable, current, recomputable, and reviewable"
+    },
+    {
+      "claim_summary": "Enterprise AI needs more than persuasive output.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-03-CLM-002",
+      "section": "Executive summary"
+    },
+    {
+      "claim_summary": "A polished answer can conceal stale inputs, missing dependencies, unsupported assumptions, or an operation that never actually completed.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "REF-3",
+        "REF-5",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "SOURCE_BACKED",
+      "id": "WP-03-CLM-003",
+      "section": "Why output-first operations are fragile"
+    },
+    {
+      "claim_summary": "Every material evidence object should identify at least five things: the subject it proves, the source or producer, the time/currentness basis, its role in the proof, and a way to recompute or independently inspect it.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-03-CLM-004",
+      "section": "The evidence binding contract"
+    },
+    {
+      "claim_summary": "A large evidence directory can still be incomplete.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-03-CLM-005",
+      "section": "Evidence is a graph, not a folder"
+    },
+    {
+      "claim_summary": "Evidence has a dependency surface.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-03-CLM-006",
+      "section": "Currentness and invalidation"
+    },
+    {
+      "claim_summary": "A checksum listed in a report is an assertion until someone recomputes it.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-03-CLM-007",
+      "section": "Recomputation over assertion"
+    },
+    {
+      "claim_summary": "Not every claim needs the same evidence.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-03-CLM-008",
+      "section": "Evidence strength and uncertainty"
+    },
+    {
+      "claim_summary": "Independent review should not require access to the producer\u2019s private filesystem, chat history, or inaccessible runtime.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-03-CLM-009",
+      "section": "Portable evidence for independent review"
+    },
+    {
+      "claim_summary": "The principles above can be public without releasing proprietary evidence schemas, validator code, attack sets, or private evidence corpora.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-03-CLM-010",
+      "section": "Public-safe disclosure boundary"
+    },
+    {
+      "claim_summary": "Evidence-first operation cannot make bad requirements good, guarantee source truth, or eliminate uncertainty.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-03-CLM-011",
+      "section": "Limitations"
+    }
+  ],
+  "currentness_boundary": "INHERITED_WP02_SOURCES_ONLY",
+  "measured_documented_modeled_target_separation": "PASS",
+  "paper_id": "WP-03",
+  "result": "PASS",
+  "unmapped_material_claims": 0
+}

@@ -1,0 +1,14 @@
+{
+  "classification": "public-safe / non-confidential",
+  "document_date": "2026-09-24",
+  "external_source_currentness": "inherited from independently reviewed WP-02 v1.0.0 canary; no new live-web research in this batch",
+  "paper_id": "WP-09",
+  "publisher": "BRAIZ Works LLC",
+  "release_tag": "wp-09-v1.0.0",
+  "rights": "\u00a9 2026 BRAIZ Works LLC. All rights reserved.",
+  "series": "BRAIZ Works Research",
+  "source_sha256": "4e7d80d846cb1a24d42afa29e455fa8beeed4fc841881b1a0791b7d28f918601",
+  "subtitle": "A sanitized first-party case on publishing a governed AI whitepaper without exposing the private blueprint",
+  "title": "Public Case Study Series: From Intake to Verified Outcome",
+  "version": "1.0.0"
+}

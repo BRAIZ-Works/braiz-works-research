@@ -1,0 +1,14 @@
+{
+  "classification": "public-safe / non-confidential",
+  "document_date": "2026-09-24",
+  "external_source_currentness": "inherited from independently reviewed WP-02 v1.0.0 canary; no new live-web research in this batch",
+  "paper_id": "WP-04",
+  "publisher": "BRAIZ Works LLC",
+  "release_tag": "wp-04-v1.0.0",
+  "rights": "\u00a9 2026 BRAIZ Works LLC. All rights reserved.",
+  "series": "BRAIZ Works Research",
+  "source_sha256": "a65b79105ac4abf7d9e8f94cd69074a9d8108562d82c4230553774e1eab6480d",
+  "subtitle": "How AI systems can evolve without discarding valid evidence or reusing stale proof",
+  "title": "Safe Change Without Proof Collapse",
+  "version": "1.0.0"
+}

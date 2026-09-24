@@ -1,0 +1,63 @@
+{
+  "member_count": 11,
+  "members": [
+    {
+      "path": "ACCESSIBILITY_DISCLOSURE.json",
+      "sha256": "631000b84473d28621d25a171d2246934de90009e5882ebf0f09f658689a89a2",
+      "size": 522
+    },
+    {
+      "path": "BRAIZ_Works_Research_WP-07_The_Shadow-State_Problem_in_Enterprise_AI_v1.0.0.pdf",
+      "sha256": "1c236669642382c6cd1d8a3bd90c789d44193cbf1a1419b390fb3aabaf60606e",
+      "size": 8493
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "fc080240df1bc2e225849e60501673af87327cfa122f9487cf1baeb31be42754",
+      "size": 294
+    },
+    {
+      "path": "CLAIM_EVIDENCE_MAP.json",
+      "sha256": "ea20f13a72fb41e2fe582f1cdb1f882e518cde139cc9bc4381d1411c0cad3ab1",
+      "size": 4789
+    },
+    {
+      "path": "DISCLOSURE_RIGHTS_GATE.json",
+      "sha256": "1993904c9195638f94fdd03107a6f60e6de1a5dc47d9338f170b1ac50086ea6d",
+      "size": 551
+    },
+    {
+      "path": "RIGHTS.md",
+      "sha256": "00649dc97fedeee7853107b093ded006450d3ad293f344dc1258ad6a63650e23",
+      "size": 274
+    },
+    {
+      "path": "changelog.md",
+      "sha256": "962f2a027d5b1d07832372ba2860f3879ba1bf3c5293cde312a4ba4cbd39ae42",
+      "size": 135
+    },
+    {
+      "path": "metadata.json",
+      "sha256": "3dd6df778d27f15400f1564ad6add7aff6cd6f165968d2bd4ef9d1475f29e14e",
+      "size": 682
+    },
+    {
+      "path": "paper.md",
+      "sha256": "fc3912c9050b2493113b53d108302ff1170d89089544773c78014d003ed67601",
+      "size": 5748
+    },
+    {
+      "path": "release-notes.md",
+      "sha256": "d85cdf35c2e06d98e3a389d31671c07b210ad716df5e3a04304f120f1a41c3f1",
+      "size": 512
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "sha256": "862b1f2fbdd0205856da6d0419bf4893aa0a2bfff892ab8be865a8a2c9cdc727",
+      "size": 898
+    }
+  ],
+  "paper_id": "WP-07",
+  "self_exclusion": "PUBLICATION_MANIFEST.json is covered by outer batch manifest to avoid recursive self-hash",
+  "version": "1.0.0"
+}

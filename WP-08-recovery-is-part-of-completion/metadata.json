@@ -1,0 +1,14 @@
+{
+  "classification": "public-safe / non-confidential",
+  "document_date": "2026-09-24",
+  "external_source_currentness": "inherited from independently reviewed WP-02 v1.0.0 canary; no new live-web research in this batch",
+  "paper_id": "WP-08",
+  "publisher": "BRAIZ Works LLC",
+  "release_tag": "wp-08-v1.0.0",
+  "rights": "\u00a9 2026 BRAIZ Works LLC. All rights reserved.",
+  "series": "BRAIZ Works Research",
+  "source_sha256": "20dafc3f58ed769e862658c52814a40ea31d03514b2b043cc3dc91b28b251719",
+  "subtitle": "Why backup existence is not enough for enterprise AI",
+  "title": "Recovery Is Part of Completion",
+  "version": "1.0.0"
+}

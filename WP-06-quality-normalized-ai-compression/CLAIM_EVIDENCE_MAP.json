@@ -1,0 +1,131 @@
+{
+  "candidate_sha256": "2589c1317e16981c3f273abe7b5db436d619c88413be65bef0934ad52bd2271a",
+  "claims": [
+    {
+      "claim_summary": "**BRAIZ Works Research** **WP-06 \u00b7 Version 1.0.0 \u00b7 September 24, 2026**  > Public-safe research.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-06-CLM-001",
+      "section": "Measuring speed only after scope, complexity, quality, evidence, and recovery are held constant"
+    },
+    {
+      "claim_summary": "AI productivity claims are easy to inflate when faster work is compared with a weaker result.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-06-CLM-002",
+      "section": "Executive summary"
+    },
+    {
+      "claim_summary": "A faster result is not automatically a better production system.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-06-CLM-003",
+      "section": "Why raw speed is a weak metric"
+    },
+    {
+      "claim_summary": "A defensible compression claim requires an equal-output contract.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-06-CLM-004",
+      "section": "The normalization rule"
+    },
+    {
+      "claim_summary": "Metrics should carry evidence classes.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-06-CLM-005",
+      "section": "Measured, documented, modeled, target"
+    },
+    {
+      "claim_summary": "A useful enterprise comparison can separate three lanes:        The purpose is not to guarantee that one lane always wins.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-06-CLM-006",
+      "section": "Three-lane comparison"
+    },
+    {
+      "claim_summary": "AI systems can compress active human effort without compressing wall-clock time, or vice versa.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-06-CLM-007",
+      "section": "Wall time and person-hours are different"
+    },
+    {
+      "claim_summary": "Actual spend, replacement cost, and modeled savings answer different questions.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-06-CLM-008",
+      "section": "Cost is also multi-layered"
+    },
+    {
+      "claim_summary": "Once equal scope and quality are established, compression can become powerful evidence.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-06-CLM-009",
+      "section": "Quality-normalized compression as an enterprise proof"
+    },
+    {
+      "claim_summary": "Before publishing a productivity multiplier, disclose the compared scope, quality controls, evidence strength, time basis, cost basis, sample size, and major limitations.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-06-CLM-010",
+      "section": "A publication checklist for productivity claims"
+    },
+    {
+      "claim_summary": "Counterfactual labor and cost estimates remain models unless directly observed.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-06-CLM-011",
+      "section": "Limitations"
+    }
+  ],
+  "currentness_boundary": "INHERITED_WP02_SOURCES_ONLY",
+  "measured_documented_modeled_target_separation": "PASS",
+  "paper_id": "WP-06",
+  "result": "PASS",
+  "unmapped_material_claims": 0
+}

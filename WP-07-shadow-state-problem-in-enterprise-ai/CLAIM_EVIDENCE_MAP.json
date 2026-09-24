@@ -1,0 +1,131 @@
+{
+  "candidate_sha256": "fc3912c9050b2493113b53d108302ff1170d89089544773c78014d003ed67601",
+  "claims": [
+    {
+      "claim_summary": "**BRAIZ Works Research** **WP-07 \u00b7 Version 1.0.0 \u00b7 September 24, 2026**  > Public-safe research.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-07-CLM-001",
+      "section": "Why multiple competing truths create drift, duplicated control, and false completion"
+    },
+    {
+      "claim_summary": "Agentic systems often accumulate multiple roadmaps, trackers, summaries, dashboards, and control surfaces.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-07-CLM-002",
+      "section": "Executive summary"
+    },
+    {
+      "claim_summary": "Shadow state exists when two or more surfaces can independently define a material project truth: current requirements, lifecycle, authority, evidence, recovery, or next action.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-07-CLM-003",
+      "section": "What shadow state is"
+    },
+    {
+      "claim_summary": "Agents are good at creating artifacts, summaries, plans, and helper structures.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-07-CLM-004",
+      "section": "Why agentic systems amplify the problem"
+    },
+    {
+      "claim_summary": "The safer pattern is one canonical state writer and many read-only or request surfaces.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-07-CLM-005",
+      "section": "One truth, many projections"
+    },
+    {
+      "claim_summary": "Duplicated control becomes especially dangerous when roadmaps and lifecycle states diverge.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-07-CLM-006",
+      "section": "Shadow roadmaps and duplicated lifecycles"
+    },
+    {
+      "claim_summary": "A mature system should expose one current next action or one exact blocker at a time.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-07-CLM-007",
+      "section": "The next-action test"
+    },
+    {
+      "claim_summary": "Audit is valuable precisely because it can remain non-controlling.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-07-CLM-008",
+      "section": "Audit without control"
+    },
+    {
+      "claim_summary": "Public architecture principles",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-07-CLM-009",
+      "section": "Public architecture principles"
+    },
+    {
+      "claim_summary": "Look for duplicated requirement stores, inconsistent status labels, separate recovery truths, specialists that can self-promote lifecycle, dashboards that cannot trace a displayed state to evidence, and manual reconciliation that repeatedly asks \u201cwhich one is current?\u201d",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-07-CLM-010",
+      "section": "How to detect shadow state"
+    },
+    {
+      "claim_summary": "A single canonical state does not remove the need for distributed systems, caches, indexes, or specialized data stores.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-07-CLM-011",
+      "section": "Limitations"
+    }
+  ],
+  "currentness_boundary": "INHERITED_WP02_SOURCES_ONLY",
+  "measured_documented_modeled_target_separation": "PASS",
+  "paper_id": "WP-07",
+  "result": "PASS",
+  "unmapped_material_claims": 0
+}

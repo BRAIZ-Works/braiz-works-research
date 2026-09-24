@@ -1,0 +1,131 @@
+{
+  "candidate_sha256": "20dafc3f58ed769e862658c52814a40ea31d03514b2b043cc3dc91b28b251719",
+  "claims": [
+    {
+      "claim_summary": "**BRAIZ Works Research** **WP-08 \u00b7 Version 1.0.0 \u00b7 September 24, 2026**  > Public-safe research.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-08-CLM-001",
+      "section": "Why backup existence is not enough for enterprise AI"
+    },
+    {
+      "claim_summary": "A system is not recoverable merely because a backup exists.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-08-CLM-002",
+      "section": "Executive summary"
+    },
+    {
+      "claim_summary": "A backup file can be corrupt, incomplete, stale, inaccessible, or impossible to restore in the environment where it is needed.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-08-CLM-003",
+      "section": "The backup fallacy"
+    },
+    {
+      "claim_summary": "A stronger recovery contract has four distinct predicates:  1.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-08-CLM-004",
+      "section": "Four recovery predicates"
+    },
+    {
+      "claim_summary": "Recovery evidence should identify exactly what it can restore.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-08-CLM-005",
+      "section": "Recovery should be subject-bound"
+    },
+    {
+      "claim_summary": "The worst time to discover that a restore path is incomplete is during an outage or failed deployment.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-08-CLM-006",
+      "section": "Test recovery before failure"
+    },
+    {
+      "claim_summary": "Safe change benefits from a verified predecessor and a proven restore path.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-08-CLM-007",
+      "section": "Recovery and safe change"
+    },
+    {
+      "claim_summary": "Agentic workflows can fail after some side effects occur.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-08-CLM-008",
+      "section": "Partial failure and ambiguity"
+    },
+    {
+      "claim_summary": "A reviewer should be able to inspect recovery proof without trusting the producer\u2019s label.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-08-CLM-009",
+      "section": "Recovery evidence in independent review"
+    },
+    {
+      "claim_summary": "A practical enterprise checklist",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-08-CLM-010",
+      "section": "A practical enterprise checklist"
+    },
+    {
+      "claim_summary": "No recovery plan can guarantee restoration under every catastrophe.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-08-CLM-011",
+      "section": "Limitations"
+    }
+  ],
+  "currentness_boundary": "INHERITED_WP02_SOURCES_ONLY",
+  "measured_documented_modeled_target_separation": "PASS",
+  "paper_id": "WP-08",
+  "result": "PASS",
+  "unmapped_material_claims": 0
+}

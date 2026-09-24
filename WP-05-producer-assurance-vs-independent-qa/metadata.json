@@ -1,0 +1,14 @@
+{
+  "classification": "public-safe / non-confidential",
+  "document_date": "2026-09-24",
+  "external_source_currentness": "inherited from independently reviewed WP-02 v1.0.0 canary; no new live-web research in this batch",
+  "paper_id": "WP-05",
+  "publisher": "BRAIZ Works LLC",
+  "release_tag": "wp-05-v1.0.0",
+  "rights": "\u00a9 2026 BRAIZ Works LLC. All rights reserved.",
+  "series": "BRAIZ Works Research",
+  "source_sha256": "10a2530275e3b1cff76fb6d803b1cabac0f15601e942aae1476f293f9e058759",
+  "subtitle": "Why builders should repair aggressively and reviewers should stay separate",
+  "title": "Producer Assurance vs Independent QA",
+  "version": "1.0.0"
+}

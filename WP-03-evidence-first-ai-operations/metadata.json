@@ -1,0 +1,14 @@
+{
+  "classification": "public-safe / non-confidential",
+  "document_date": "2026-09-24",
+  "external_source_currentness": "inherited from independently reviewed WP-02 v1.0.0 canary; no new live-web research in this batch",
+  "paper_id": "WP-03",
+  "publisher": "BRAIZ Works LLC",
+  "release_tag": "wp-03-v1.0.0",
+  "rights": "\u00a9 2026 BRAIZ Works LLC. All rights reserved.",
+  "series": "BRAIZ Works Research",
+  "source_sha256": "83d73893b7c9ca3c2abbeda5530e42fcd8560fa75acd52ccdd8799847fd089f3",
+  "subtitle": "Making agentic work attributable, current, recomputable, and reviewable",
+  "title": "Evidence-First AI Operations",
+  "version": "1.0.0"
+}

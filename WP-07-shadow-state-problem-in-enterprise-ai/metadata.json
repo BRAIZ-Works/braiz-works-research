@@ -1,0 +1,14 @@
+{
+  "classification": "public-safe / non-confidential",
+  "document_date": "2026-09-24",
+  "external_source_currentness": "inherited from independently reviewed WP-02 v1.0.0 canary; no new live-web research in this batch",
+  "paper_id": "WP-07",
+  "publisher": "BRAIZ Works LLC",
+  "release_tag": "wp-07-v1.0.0",
+  "rights": "\u00a9 2026 BRAIZ Works LLC. All rights reserved.",
+  "series": "BRAIZ Works Research",
+  "source_sha256": "fc3912c9050b2493113b53d108302ff1170d89089544773c78014d003ed67601",
+  "subtitle": "Why multiple competing truths create drift, duplicated control, and false completion",
+  "title": "The Shadow-State Problem in Enterprise AI",
+  "version": "1.0.0"
+}

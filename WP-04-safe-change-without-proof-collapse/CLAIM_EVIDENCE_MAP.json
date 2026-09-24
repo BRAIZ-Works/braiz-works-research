@@ -1,0 +1,131 @@
+{
+  "candidate_sha256": "a65b79105ac4abf7d9e8f94cd69074a9d8108562d82c4230553774e1eab6480d",
+  "claims": [
+    {
+      "claim_summary": "**BRAIZ Works Research** **WP-04 \u00b7 Version 1.0.0 \u00b7 September 24, 2026**  > Public-safe research.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-04-CLM-001",
+      "section": "How AI systems can evolve without discarding valid evidence or reusing stale proof"
+    },
+    {
+      "claim_summary": "Change is inevitable in agentic systems.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-04-CLM-002",
+      "section": "Executive summary"
+    },
+    {
+      "claim_summary": "AI-enabled systems change quickly: prompts evolve, tools update, policies shift, source data changes, and workflows gain new dependencies.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-04-CLM-003",
+      "section": "The change-control problem"
+    },
+    {
+      "claim_summary": "A verified predecessor is evidence.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-04-CLM-004",
+      "section": "Preserve the predecessor"
+    },
+    {
+      "claim_summary": "Before changing a governed artifact, construct an impact map:  `change \u2192 affected requirements \u2192 affected dependencies \u2192 invalidated proof \u2192 required retest \u2192 recovery consequence`  This map makes the repair bounded.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-04-CLM-005",
+      "section": "Impact map before repair"
+    },
+    {
+      "claim_summary": "Proof should be invalidated because its assumptions changed, not because a new version number exists.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-04-CLM-006",
+      "section": "Invalidate proof locally"
+    },
+    {
+      "claim_summary": "Affected QA asks whether the changed unit now works.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-04-CLM-007",
+      "section": "Regression has two directions"
+    },
+    {
+      "claim_summary": "A successor does not inherit lifecycle status automatically.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-04-CLM-008",
+      "section": "The successor must earn its own status"
+    },
+    {
+      "claim_summary": "A failed candidate should not disappear when a repair succeeds.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-04-CLM-009",
+      "section": "Failure preservation improves learning"
+    },
+    {
+      "claim_summary": "Public safe-change checklist",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-04-CLM-010",
+      "section": "Public safe-change checklist"
+    },
+    {
+      "claim_summary": "Safe change cannot prove that an impact map is omniscient.",
+      "consequential": true,
+      "evidence": [
+        "FROZEN_R2_MASTER_PLAN",
+        "SRC-001_PROGRAM_PORTFOLIO"
+      ],
+      "evidence_class": "DOCUMENTED_FIRST_PARTY",
+      "id": "WP-04-CLM-011",
+      "section": "Limitations"
+    }
+  ],
+  "currentness_boundary": "INHERITED_WP02_SOURCES_ONLY",
+  "measured_documented_modeled_target_separation": "PASS",
+  "paper_id": "WP-04",
+  "result": "PASS",
+  "unmapped_material_claims": 0
+}

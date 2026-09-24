@@ -1,0 +1,14 @@
+{
+  "classification": "public-safe / non-confidential",
+  "document_date": "2026-09-24",
+  "external_source_currentness": "inherited from independently reviewed WP-02 v1.0.0 canary; no new live-web research in this batch",
+  "paper_id": "WP-01",
+  "publisher": "BRAIZ Works LLC",
+  "release_tag": "wp-01-v1.0.0",
+  "rights": "\u00a9 2026 BRAIZ Works LLC. All rights reserved.",
+  "series": "BRAIZ Works Research",
+  "source_sha256": "d646642e016adf431e817e1e53182a1679a8d4b3f2f7f91aa5db81cd3ff81d2f",
+  "subtitle": "Why \u201cthe agent ran\u201d is not the same as \u201cthe outcome is proven done\u201d",
+  "title": "Verified Completion for Agentic AI",
+  "version": "1.0.0"
+}

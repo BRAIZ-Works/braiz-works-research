@@ -1,0 +1,14 @@
+{
+  "classification": "public-safe / non-confidential",
+  "document_date": "2026-09-24",
+  "external_source_currentness": "inherited from independently reviewed WP-02 v1.0.0 canary; no new live-web research in this batch",
+  "paper_id": "WP-06",
+  "publisher": "BRAIZ Works LLC",
+  "release_tag": "wp-06-v1.0.0",
+  "rights": "\u00a9 2026 BRAIZ Works LLC. All rights reserved.",
+  "series": "BRAIZ Works Research",
+  "source_sha256": "2589c1317e16981c3f273abe7b5db436d619c88413be65bef0934ad52bd2271a",
+  "subtitle": "Measuring speed only after scope, complexity, quality, evidence, and recovery are held constant",
+  "title": "Quality-Normalized AI Compression",
+  "version": "1.0.0"
+}

@@ -1,0 +1,63 @@
+{
+  "member_count": 11,
+  "members": [
+    {
+      "path": "ACCESSIBILITY_DISCLOSURE.json",
+      "sha256": "045bf4bf00fdfdf40858388da2ff06b6eae5c075b0ecbd87cca9b8b5b5ef8ec0",
+      "size": 522
+    },
+    {
+      "path": "BRAIZ_Works_Research_WP-03_Evidence-First_AI_Operations_v1.0.0.pdf",
+      "sha256": "8eafcf29031ee40f272de23c539dda981fe2dde0801b9e58b6ccbffc14a1bc1a",
+      "size": 9131
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "af77fb8c81ef56cd1386b33d437e277e2df70a9474212a86b53a5ff5fe838db9",
+      "size": 281
+    },
+    {
+      "path": "CLAIM_EVIDENCE_MAP.json",
+      "sha256": "683bbab76287888f2399209e917053fea517106a09f9a3cbc8d4d092f8332932",
+      "size": 4697
+    },
+    {
+      "path": "DISCLOSURE_RIGHTS_GATE.json",
+      "sha256": "f7375b126e3ba731c9345ad9c3b4b65e5f98994dd8e71cf9595cee5ca27862c5",
+      "size": 551
+    },
+    {
+      "path": "RIGHTS.md",
+      "sha256": "00649dc97fedeee7853107b093ded006450d3ad293f344dc1258ad6a63650e23",
+      "size": 274
+    },
+    {
+      "path": "changelog.md",
+      "sha256": "b7813a851cd76eabfaccb1311d21083be843f559c820a6590f4731cbedddd85f",
+      "size": 122
+    },
+    {
+      "path": "metadata.json",
+      "sha256": "2b3abd9289e7e9c7e49f340666d6ae011f1aaa94551e620bf21b81bbb43b9d2c",
+      "size": 656
+    },
+    {
+      "path": "paper.md",
+      "sha256": "83d73893b7c9ca3c2abbeda5530e42fcd8560fa75acd52ccdd8799847fd089f3",
+      "size": 6569
+    },
+    {
+      "path": "release-notes.md",
+      "sha256": "7eb0efe798fc1d28a18b161c6f9819e47c1a2fa1b71e7139006c3ab8eb6aaadc",
+      "size": 428
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "sha256": "5f9dc3b8dffa807c7e5e7cfad1f104ce273ab7e3cfd34c13e730670111d58151",
+      "size": 885
+    }
+  ],
+  "paper_id": "WP-03",
+  "self_exclusion": "PUBLICATION_MANIFEST.json is covered by outer batch manifest to avoid recursive self-hash",
+  "version": "1.0.0"
+}
