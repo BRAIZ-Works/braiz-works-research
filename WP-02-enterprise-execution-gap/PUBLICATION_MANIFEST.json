@@ -1,0 +1,132 @@
+{
+  "canonical_repository": "https://github.com/BRAIZ-Works/braiz-works-research",
+  "manifest_semantics": {
+    "excluded_self_referential_files": [
+      "papers/WP-02-enterprise-execution-gap/PUBLICATION_MANIFEST.json",
+      "papers/WP-02-enterprise-execution-gap/SHA256SUMS.txt",
+      "site/downloads/WP-02_v1.0.0_SHA256SUMS.txt"
+    ],
+    "manifested_payload_count": 22,
+    "manifested_population": "all final public repository files except the manifest itself and the two checksum projections listed under excluded_self_referential_files"
+  },
+  "members": [
+    {
+      "path": ".github/workflows/pages.yml",
+      "sha256": "8e278227c4515cf5e83ef9fe777f8f315c63ffe321afc59d3f2ad18ed9098018",
+      "size_bytes": 713
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "0e5c68b9d8b7243c6e959e4be5c5bc048cac1d5d11ac938ec4c75fa69718283b",
+      "size_bytes": 104
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "87bbbd34079430be06c74da7f5033df77e5051af28e0e6e5585ecdb8e29d3352",
+      "size_bytes": 323
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "4867200dab41dd0b60874046436238c895aa6764a30932f82593368fbd365f8a",
+      "size_bytes": 419
+    },
+    {
+      "path": "PUBLICATION_POLICY.md",
+      "sha256": "15c54f3af3aa5bd90d225ca6ce91ddf79b0d6c291a5f56aa13e0d564ee534935",
+      "size_bytes": 966
+    },
+    {
+      "path": "README.md",
+      "sha256": "ef1c6ae4a068ae8fd86a6ee61bb9bef68924ded3def47839bb5af80956bface4",
+      "size_bytes": 960
+    },
+    {
+      "path": "RIGHTS.md",
+      "sha256": "e75794efd82b2e7f49d2ada33818f1f7994aa6bfc43e6e7cd023248032373296",
+      "size_bytes": 816
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "154d30a5994e1afa7d7793e6d2371b7fa9bd4c9876ba6d451949c8c029ee6044",
+      "size_bytes": 262
+    },
+    {
+      "path": "papers/WP-02-enterprise-execution-gap/BRAIZ_Works_Research_WP-02_Enterprise_Execution_Gap_v1.0.0.pdf",
+      "sha256": "bf8095d920d502295bbb5f99020171e3d0dd6305ce21aa7c4b675b789acb2fd3",
+      "size_bytes": 234749
+    },
+    {
+      "path": "papers/WP-02-enterprise-execution-gap/CITATION.cff",
+      "sha256": "74be81e307c6ead9555651621ae3ae6f992ee07ee192166909b843a92e5178a4",
+      "size_bytes": 467
+    },
+    {
+      "path": "papers/WP-02-enterprise-execution-gap/changelog.md",
+      "sha256": "691af85994b4535360ea65d4b177603631c5ccf2cbe195b378dab4811d39c92f",
+      "size_bytes": 248
+    },
+    {
+      "path": "papers/WP-02-enterprise-execution-gap/figures/figure-01-ai-use-vs-scale.png",
+      "sha256": "0dbd721242c49cadb1f67eea8480de2f3f5a6a934d43263b9bb7494728a26683",
+      "size_bytes": 81504
+    },
+    {
+      "path": "papers/WP-02-enterprise-execution-gap/metadata.json",
+      "sha256": "07ffa50fa9c5871340a3e12327fd4a417ea834c5359db9a5bf2202087bb7a299",
+      "size_bytes": 1197
+    },
+    {
+      "path": "papers/WP-02-enterprise-execution-gap/paper.md",
+      "sha256": "33d61f21b22a5404fdce4d0e5cb954270ddc3c14ea4b932e9d02d812fc08a40f",
+      "size_bytes": 21727
+    },
+    {
+      "path": "papers/WP-02-enterprise-execution-gap/release-notes.md",
+      "sha256": "681e99bdfd10cf056a36055b35f5d8997d300c4cb6c36d76658177628296b93f",
+      "size_bytes": 528
+    },
+    {
+      "path": "releases/release-index.json",
+      "sha256": "b88c464f9a4b3de67610b631f3416c89b4b7b5c9bf8990633f19b57d82075617",
+      "size_bytes": 295
+    },
+    {
+      "path": "site/assets/figure-01-ai-use-vs-scale.png",
+      "sha256": "0dbd721242c49cadb1f67eea8480de2f3f5a6a934d43263b9bb7494728a26683",
+      "size_bytes": 81504
+    },
+    {
+      "path": "site/assets/styles.css",
+      "sha256": "820173bb56fc0aff2164f5f6f5c254b4e94681e766e96055579efb94276bcccd",
+      "size_bytes": 3022
+    },
+    {
+      "path": "site/downloads/BRAIZ_Works_Research_WP-02_Enterprise_Execution_Gap_v1.0.0.pdf",
+      "sha256": "bf8095d920d502295bbb5f99020171e3d0dd6305ce21aa7c4b675b789acb2fd3",
+      "size_bytes": 234749
+    },
+    {
+      "path": "site/downloads/WP-02_Enterprise_Execution_Gap_v1.0.0.md",
+      "sha256": "33d61f21b22a5404fdce4d0e5cb954270ddc3c14ea4b932e9d02d812fc08a40f",
+      "size_bytes": 21727
+    },
+    {
+      "path": "site/index.html",
+      "sha256": "96e6d64ddd4114438589045172dbbf801a089dd4d1cf1abbdf132061adf0ae10",
+      "size_bytes": 803
+    },
+    {
+      "path": "site/papers/WP-02-enterprise-execution-gap/index.html",
+      "sha256": "fd14e8e52c59725893ee1347c01bbc770ef833b9830fb6c3e63ebc378d9d8887",
+      "size_bytes": 25850
+    }
+  ],
+  "paper_id": "WP-02",
+  "publisher": "BRAIZ Works LLC",
+  "reader_url": "https://braiz-works.github.io/braiz-works-research/papers/WP-02-enterprise-execution-gap/",
+  "release_tag": "wp-02-v1.0.0",
+  "release_url": "https://github.com/BRAIZ-Works/braiz-works-research/releases/tag/wp-02-v1.0.0",
+  "rights": "\u00a9 2026 BRAIZ Works LLC. All rights reserved.",
+  "schema_version": "1.1",
+  "version": "1.0.0"
+}
