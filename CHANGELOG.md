@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-09-27 — Public library closeout
+
+- Normalized the GitHub Pages navigation so WP-01 through WP-10 use one consistent library-card model.
+- Removed the WP-02-only live rendered reader page from current Pages navigation.
+- Preserved canonical paper sources under the top-level `WP-XX-...` directories.
+- Updated the current release index to point WP-02 reader navigation to the canonical paper source.
+- Pinned all GitHub Pages workflow actions to immutable commit SHAs and disabled persisted checkout credentials.
+- Preserved frozen WP-02 v1.0.0 historical manifests/checksums and unlinked release-support assets unchanged where not required for current navigation.
+
 ## 2026-09-27 — Public library reconciliation
 
 - Confirmed the repository as public.
