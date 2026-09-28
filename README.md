@@ -39,7 +39,9 @@ The repository-level release index is maintained under `releases/release-index.j
 
 ## Reader-facing site
 
-The `site/` directory contains the reader-facing web projection. WP-02 has a dedicated rendered reader page; the library landing page links to the canonical public artifacts for the full WP-01 through WP-10 series.
+The `site/` directory is the GitHub Pages projection. Its current navigation uses one consistent library landing page for WP-01 through WP-10, with each card linking to the canonical paper artifact.
+
+No paper has a special live reader route in the current Pages navigation. Historical/unlinked release-support assets may remain in `site/` as preserved publication evidence but are not canonical paper sources.
 
 ## Rights
 
