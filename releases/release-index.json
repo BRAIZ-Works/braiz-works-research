@@ -9,7 +9,7 @@
       "version": "1.0.0",
       "release_tag": "wp-02-v1.0.0",
       "paper_path": "WP-02-enterprise-execution-gap/",
-      "reader_path": "site/papers/WP-02-enterprise-execution-gap/",
+      "reader_path": "WP-02-enterprise-execution-gap/paper.md",
       "release_url": "https://github.com/BRAIZ-Works/braiz-works-research/releases/tag/wp-02-v1.0.0"
     }
   ]
